@@ -249,7 +249,7 @@
         <!-- Columna 3: Costos Variables por Plan + Redondeo + Resultados -->
         <div>
             <div class="card">
-                <h2>📦 Costos Variables por Plan (por cliente)</h2>
+                <h2>📦 Costos Variables por </h2>
                 <div class="campo">
                     <label>Plan Básico:</label>
                     <input type="number" id="plan_basico" value="10000" step="1000">
