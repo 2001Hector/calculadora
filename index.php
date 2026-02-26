@@ -346,7 +346,7 @@
 
     <!-- Botón para generar PDF tipo factura -->
     <div class="text-center">
-        <button class="btn-pdf" id="btnGenerarPDF">📄 Generar PDF (Factura)</button>
+        <button class="btn-pdf" id="btnGenerarPDF">📄 Generar PDF </button>
     </div>
 
     <div class="footer">
