@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora de Costos SaaS - TodoCode (COP)</title>
+    <title>Calculadora de Costos SaaS (COP)</title>
     <!-- Librería para generar PDF -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.28/jspdf.plugin.autotable.min.js"></script>
@@ -145,7 +145,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>📊 Calculadora de Costos SaaS </h1>
+    <h1>📊 Calculadora de Costos SaaS ,  </h1>
 
     <div class="grid">
         <!-- Columna 1: Costo Desarrollo Inicial + Infraestructura + Mantenimiento -->
