@@ -350,7 +350,7 @@
     </div>
 
     <div class="footer">
-        * Todos los valores están en Pesos Colombianos (COP). Los cálculos siguen la estructura de TodoCode.
+       Hector jose chamorro nuñez .
     </div>
 </div>
 
