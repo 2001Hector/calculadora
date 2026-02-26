@@ -306,7 +306,7 @@
 
     <!-- Tabla de resultados mensuales por plan -->
     <div class="tabla-planes">
-        <h3>📋 Costo Mensual por Plan (COP) – Incluye base + variable + extras + redondeo</h3>
+        <h3>📋 Costo Mensual por Plan (COP) </h3>
         <div class="fila-planes">
             <div>Plan</div>
             <div>Base + Margen</div>
