@@ -145,7 +145,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>📊 Calculadora de Costos SaaS (Pesos Colombianos COP)</h1>
+    <h1>📊 Calculadora de Costos SaaS </h1>
 
     <div class="grid">
         <!-- Columna 1: Costo Desarrollo Inicial + Infraestructura + Mantenimiento -->
